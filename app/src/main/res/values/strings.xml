@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PDF-Image Toolkit</string>
+    <!-- Fallback App ID to prevent Missing google_app_id in environments without google-services.json -->
+    <string name="google_app_id" translatable="false">1:123456789012:android:0000000000000000000000</string>
+</resources>

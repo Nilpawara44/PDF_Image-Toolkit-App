@@ -1,0 +1,6 @@
+{
+  "name": "PDF-Image Toolkit",
+  "description": "A lightweight, offline-first Android utility to seamlessly convert PDF documents into images and compile images into PDF files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

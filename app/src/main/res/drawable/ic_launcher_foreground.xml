@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Shadow for PDF card -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M27,27 h22 l10,10 v35 a4,4 0 0,1 -4,4 h-28 a4,4 0 0,1 -4,-4 v-41 a4,4 0 0,1 4,-4 z" />
+
+    <!-- PDF Document Card (Left) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,25 h22 l10,10 v35 a4,4 0 0,1 -4,4 h-28 a4,4 0 0,1 -4,-4 v-41 a4,4 0 0,1 4,-4 z" />
+
+    <!-- PDF Corner Fold -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M47,25 v10 h10 z" />
+
+    <!-- PDF Red Header Badge -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M27,33 h16 a2,2 0 0,1 2,2 v6 a2,2 0 0,1 -2,2 h-16 a2,2 0 0,1 -2,-2 v-6 a2,2 0 0,1 2,-2 z" />
+
+    <!-- Document Text Lines -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M27,49 h24 v2.5 h-24 z M27,55 h20 v2.5 h-20 z M27,61 h14 v2.5 h-14 z" />
+
+    <!-- Shadow for Image Card -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M53,41 h28 a4,4 0 0,1 4,4 v31 a4,4 0 0,1 -4,4 h-28 a4,4 0 0,1 -4,-4 v-31 a4,4 0 0,1 4,-4 z" />
+
+    <!-- Image Card (Right) -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M51,39 h28 a4,4 0 0,1 4,4 v31 a4,4 0 0,1 -4,4 h-28 a4,4 0 0,1 -4,-4 v-31 a4,4 0 0,1 4,-4 z" />
+
+    <!-- Image Inner Window -->
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M54,42 h22 a2,2 0 0,1 2,2 v25 a2,2 0 0,1 -2,2 h-22 a2,2 0 0,1 -2,-2 v-25 a2,2 0 0,1 2,-2 z" />
+
+    <!-- Sun in Image -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M59,48 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0" />
+
+    <!-- Mountains in Image -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M52,69 l8,-9 l6,7 l5,-5 l7,7 z" />
+
+    <!-- Conversion Arrow Ring Top (Coral) -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M56,27 a12,12 0 0,1 12,6 l-2,0 l4,5 l4,-5 l-2,0 a16,16 0 0,0 -16,-8 z" />
+
+    <!-- Conversion Arrow Ring Bottom (Sky Blue) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M50,83 a12,12 0 0,1 -12,-6 l2,0 l-4,-5 l-4,5 l2,0 a16,16 0 0,0 16,8 z" />
+</vector>
